@@ -1,0 +1,28 @@
+.web {
+    display:flex;
+    flex:1;
+    align-items: center;
+}
+
+.web-choice {
+    font-size: 18px;
+    margin-right: 16px;
+    font-weight: 600;
+}
+
+.web-choice a{
+    text-decoration: none;
+    color: #476a30;
+    display: flex;
+    align-items: center;
+}
+
+.choice-icon {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.web-choice:last-child{
+    margin-right: 0px;
+}
