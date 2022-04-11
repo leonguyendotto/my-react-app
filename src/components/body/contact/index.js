@@ -1,8 +1,26 @@
-import React from 'react'
+import React from 'react';
+import Line from '../../common/line';
+import './contact.css';
+import SocialContact from '../../common/social-contact/index'
 
 function Contact() {
   return (
-    <div> This is Contact</div>
+    <div className='contact'>
+      <Line />
+      <label className='section-title'> Contact</label>
+      <div className='contact-container'>
+        <div className='contact-left'>
+          <p>Let's chat! Connect directly with me through these platforms below!</p>
+          <SocialContact />
+        </div>
+        <div className='download'>
+          <a download href={require('../../../assets/cv.PDF')}>
+              <i class="fi fi-rr-download"></i> 
+              Download Resume
+          </a>
+        </div>
+      </div>
+    </div>
   )
 }
 
