@@ -19,7 +19,7 @@ function ProjectCard({project}) {
                 {project.github && (
                     <a className='project-link' href={project.github}>
                         <div className='link-button'>
-                            <i class="fi fi-rr-link"></i>GitHub
+                            <i class="fi fi-brands-github"></i>GitHub
                         </div>
                     </a>
                 )}

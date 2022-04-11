@@ -10,12 +10,12 @@ function Web() {
             </a>
         </div>
         <div className='web-choice'>
-            <a href="skills">
+            <a href="#skills">
                 <i class="fi fi-rr-edit-alt choice-icon"></i>Skills
             </a>
         </div>
         <div className='web-choice'>
-            <a href="contact">
+            <a href="#contact">
                 <i class="fi fi-rr-headset choice-icon"></i>Contact
             </a>
         </div>
