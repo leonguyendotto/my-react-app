@@ -18,7 +18,7 @@ export default class Projects extends React.Component{
       axios.get('./projects.json')
           .then (res => {
               const projects = res.data;
-              console.log(res);
+              
               this.setState ({projects:projects})
           })
   }

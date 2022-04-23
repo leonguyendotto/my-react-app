@@ -5,7 +5,7 @@ function SkillCard( {skill}) {
   return (
     <div className='skill-card'>
         <div className='skill-icon'>
-            {skill.icon}
+          <img src={skill.image} width="64px"/>
         </div>
         <label className='skill-name'>
             {skill.name}
