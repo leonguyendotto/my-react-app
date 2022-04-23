@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Project live at: 
+Successfully completed fetch data from Laravel CMS: https://spirited-turpitude.000webhostapp.com/ 
+to the front-end site React: https://my-react-app-ten-chi.vercel.app/
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
