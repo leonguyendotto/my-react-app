@@ -5,7 +5,7 @@ import Line from '../../common/line/index';
 // import projects from '../../data/projects.json'
 import axios from 'axios';
 
-
+//I use Project JSON to fetch data from my Laravel, because my Laravel backend is still in progress. 
 export default class Projects extends React.Component{
   constructor (props){
     super(props);

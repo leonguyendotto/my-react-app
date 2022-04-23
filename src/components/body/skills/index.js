@@ -5,6 +5,7 @@ import Line from "../../common/line/index";
 import SkillCard from './skill-card';
 import axios from 'axios';
 
+//I use Skill JSON to fetch data from my Laravel, because my Laravel backend is still in progress. 
 export default class Skills extends React.Component {
   constructor(props){
     super(props);
