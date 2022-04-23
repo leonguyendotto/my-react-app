@@ -1,7 +1,7 @@
 # Project live at: 
-https://my-react-app-ten-chi.vercel.app/
-Finished fetch data from Laravel CMS to the front-end site React 
-Laravel link: https://spirited-turpitude.000webhostapp.com/
+Successfully completed fetch data from Laravel CMS:https://spirited-turpitude.000webhostapp.com/ 
+to the front-end site React:https://my-react-app-ten-chi.vercel.app/
+
 
 
 ## Getting Started with Create React App
