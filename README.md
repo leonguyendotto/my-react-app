@@ -1,8 +1,8 @@
-Project live at: https://my-react-app-ten-chi.vercel.app/
+# Project live at: https://my-react-app-ten-chi.vercel.app/
 Finished fetch data from Laravel CMS to the front-end site React 
 
 
-# Getting Started with Create React App
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
