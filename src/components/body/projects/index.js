@@ -15,7 +15,7 @@ export default class Projects extends React.Component{
   }
 
   componentDidMount (){
-      axios.get('./projects.json')
+      axios.get('https://spirited-turpitude.000webhostapp.com/api/projects')
           .then (res => {
               const projects = res.data;
               

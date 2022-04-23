@@ -15,7 +15,7 @@ export default class Skills extends React.Component {
   }
 
   componentDidMount () {
-    axios.get('./skills.json')
+    axios.get('https://spirited-turpitude.000webhostapp.com/api/skills')
       .then (res => {
         const skills = res.data;
         console.log(res);
