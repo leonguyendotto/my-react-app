@@ -1,6 +1,6 @@
 # Project live at: 
-Successfully completed fetch data from Laravel CMS:https://spirited-turpitude.000webhostapp.com/ 
-to the front-end site React:https://my-react-app-ten-chi.vercel.app/
+Successfully completed fetch data from Laravel CMS: https://spirited-turpitude.000webhostapp.com/ 
+to the front-end site React: https://my-react-app-ten-chi.vercel.app/
 
 
 
