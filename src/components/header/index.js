@@ -8,7 +8,7 @@ function Header() {
   return (
     <div className='header'>
         <div className='logo'>
-            React Assignment 2
+            Leo's Portfolio Mockup
         </div>
         <div className='menu'>
             <div className='web-menu'>
