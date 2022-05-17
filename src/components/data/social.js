@@ -1,13 +1,8 @@
 export const SocialData =[
     {
-        platform:"Instagram",
-        link:"https://www.instagram.com/leonguyen.to",
-        icon:require("../../assets/icon/instagram.png"),
-    },
-    {
-        platform:"facebook",
-        link:"https://www.facebook.com/lam.nguyen.1612147",
-        icon:require("../../assets/icon/facebook.png"),
+        platform:"LinkedIn",
+        link:"https://www.linkedin.com/in/leolamnguyen",
+        icon:require("../../assets/icon/linkedin.png"),
     },
     {
         platform:"GitHub",
@@ -15,8 +10,13 @@ export const SocialData =[
         icon:require("../../assets/icon/github.png"),
     },
     {
-        platform:"LinkedIn",
-        link:"https://www.linkedin.com/in/leolamnguyen",
-        icon:require("../../assets/icon/linkedin.png"),
+        platform:"Instagram",
+        link:"https://www.instagram.com/leonguyen.to",
+        icon:require("../../assets/icon/instagram.png"),
+    },
+    {
+        platform:"Facebook",
+        link:"https://www.facebook.com/lam.nguyen.1612147",
+        icon:require("../../assets/icon/facebook.png"),
     },
 ];
