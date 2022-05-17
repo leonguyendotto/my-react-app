@@ -27,7 +27,7 @@ function About() {
           <br />Toronto, Canada📍
         </div>
         <div className='about-image'>
-          <img src={require('../../../assets/avatar.png')} className='image'/>
+          <img src={require('../../../assets/avatar.jpg')} className='image'/>
         </div>
       </div>
       <div className='about-bottom'>
