@@ -10,14 +10,14 @@ function ProjectCard({project}) {
               </label>
               <div className='project-links'>
                   {project.url && ( 
-                      <a className='project-link' href={project.url}>
+                      <a className='project-link' href={project.url} target="_blank" rel="noopener noreferrer">
                           <div className='link-button'>
                               <i class="fi fi-rr-link"></i>Demo
                           </div>
                       </a>
                   )}
                   {project.github && (
-                      <a className='project-link' href={project.github}>
+                      <a className='project-link' href={project.github} target="_blank" rel="noopener noreferrer">
                           <div className='link-button'>
                               <i class="fi fi-brands-github"></i>GitHub
                           </div>
