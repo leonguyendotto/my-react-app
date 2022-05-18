@@ -15,7 +15,7 @@ function Contact() {
           <SocialContact />
         </div>
         <div className='download'>
-          <a download href={require('../../../assets/WebDev.PDF')}>
+          <a download href="https://tinyurl.com/yydh8uuh">
               <i class="fi fi-rr-download"></i> 
               Download Resume
           </a>
