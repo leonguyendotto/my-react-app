@@ -15,7 +15,7 @@ function Contact() {
           <SocialContact />
         </div>
         <div className='download'>
-          <a download href="https://tinyurl.com/yydh8uuh">
+          <a download href="https://tinyurl.com/yydh8uuh" target="_blank" rel="noopener noreferrer">
               <i class="fi fi-rr-download"></i> 
               Download Resume
           </a>
