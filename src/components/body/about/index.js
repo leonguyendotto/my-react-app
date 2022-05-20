@@ -19,12 +19,12 @@ function About() {
     <div className='about'>
       <div className='about-top'>
         <div className='about-info'>
-          Hi There 👋, I am
+          Hi👋,  I am
           <br /><span className='info-name'>Leo Nguyen</span>
           <br/> Freelance <span className='info-move' ref={textRef}></span>
-          <br />Creating beautiful website experiences 
-          <br />focused on user-experience and purpose.
-          <br />Toronto, Canada📍
+          <div className='bio'>
+            Developing & designing websites that prioritize user experiences
+          </div>
         </div>
         <div className='about-image'>
           <img src={require('../../../assets/avatar.jpg')} className='image'/>

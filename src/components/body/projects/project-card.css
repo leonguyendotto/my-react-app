@@ -18,6 +18,7 @@
 .project-title {
     font-size: 20px;
     font-weight: 600;
+    color: #519331;
 }
 
 .project-links a {
@@ -34,7 +35,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #9ecbc8;
+    background-color: 	
+    #89A236;
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;
