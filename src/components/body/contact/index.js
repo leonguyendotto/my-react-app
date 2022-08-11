@@ -11,7 +11,7 @@ function Contact() {
       <div className='contact-container'>
         <div className='contact-left'>
           <p>Visit my <a href="https://itsmeleo.com" target="_blank" rel="noopener noreferrer">Design Portfolio</a>, I do Design too! </p>
-          <p>My website portfolio <a href="https://www.iamleo.me" target="_blank" rel="noopener noreferrer">Back-Up Link</a>, in case this site is down! </p>
+          <p>My website portfolio <a href="https://leonguyenportfolio.vercel.app" target="_blank" rel="noopener noreferrer">Back-Up Link</a>, in case this site is down! </p>
           <p>Let's chat! Connect directly with me through these platforms below!</p>
           <SocialContact />
         </div>
